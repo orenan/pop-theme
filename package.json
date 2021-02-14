@@ -1,0 +1,35 @@
+{
+    "name": "pop-theme",
+    "displayName": "pop-theme",
+    "description": "Similar to the Dracula Theme, but harmonious with the Pop!_OS interface",
+    "publisher": "orenan",
+    "license": "MIT",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/orenan/pop-theme.git"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"dracula",
+		"dark",
+        "pop-os",
+        "pop",
+		"theme",
+		"color-theme"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pop-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pop-theme-color-theme.json"
+            }
+        ]
+    }
+}
