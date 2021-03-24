@@ -5,7 +5,7 @@
 ```sh
 ext install pop-theme 
 ```
-Then go to `Preferences > Color Theme > pop-theme`.
+Then go to `Preferences > Color Theme > Pop Theme`.
 
 ## Contributing
 If you'd like to contribute to this theme, please read the [contributing guidelines](CONTRIBUTING.md).
